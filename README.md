@@ -1,0 +1,2 @@
+# rudimentos
+rudimentos de python
